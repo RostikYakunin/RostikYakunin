@@ -3,7 +3,7 @@
 ### 📫 How to reach me: 
                         email - yakunin.dev.official@gmail.com
                         telegram - https://t.me/rostYaky
-                        linkedin - https://www.linkedin.com/in/yakunin-dev/
+                        linkedin - https://www.linkedin.com/in/yakunin-r/
 
 <!--
 **RostikYakunin/RostikYakunin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
