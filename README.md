@@ -2,7 +2,7 @@
 ### 🌱 I’m currently learning Java
 ### 📫 How to reach me: 
                         email - yakunin.dev.official@gmail.com
-                        telegram - https://t.me/rostYaky
+                        telegram - https://t.me/dev_yak
                         linkedin - https://www.linkedin.com/in/yakunin-r/
 
 <!--
