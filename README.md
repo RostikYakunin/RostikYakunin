@@ -1,5 +1,4 @@
 ### 👋 Hi there, I`m Rostyslav Yakunin 
-### 🌱 I’m currently learning Java
 ### 📫 How to reach me: 
                         email - yakunin.dev.official@gmail.com
                         telegram - https://t.me/yak_dev
