@@ -1,5 +1,12 @@
 # 💫 About Me:
-- 🔭 I’m currently working on A - Gram company<br>- 🌱 I’m currently learning AWS Basics <br>- 👯 I’m open for collaborating with developers for creating incredible apps<br>- 📫 How to reach me: <br>                        email - yakunin.dev.official@gmail.com<br>                        telegram - https://t.me/yak_dev<br>                        linkedin - https://www.linkedin.com/in/yakunin-r/
+
+- 🔭 I’m currently working on A - Gram company<br>
+- 🌱 I’m currently learning AWS Basics <br>
+- 👯 I’m open for collaborating with developers for creating incredible apps<br>
+- 📫 How to reach me: <br>
+ email - yakunin.dev.official@gmail.com<br>
+ telegram - https://t.me/yak_dev<br>
+ linkedin - https://www.linkedin.com/in/yakunin-r/
 
 
 ## 🌐 Socials:
