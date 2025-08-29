@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on A - Gram company<br>
+- 🔭 I’m currently working for EPAM company<br>
 - 🌱 I’m currently learning AWS Basics <br>
 - 👯 I’m open for collaborating with developers for creating incredible apps<br>
 - 📫 How to reach me: <br>
